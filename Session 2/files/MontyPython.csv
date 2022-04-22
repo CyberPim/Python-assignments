@@ -1,0 +1,946 @@
+Scene;textNr;Who;What
+1;1; ARTHUR;Whoa there!
+1;2; GUARD #1;Halt! Who goes there?
+1;3; ARTHUR;It is I, Arthur, son of Uther Pendragon, from the castle of Camelot. King of the Britons, defeator of the Saxons, sovereign of all England!
+1;4; GUARD #1;Pull the other one!
+1;5; ARTHUR;I am. And this my trusty servant Patsy. We have ridden the length and breadth of the land in search of knights who will join me in my court of Camelot. I must speak with your lord and master.
+1;6; GUARD #1;What, ridden on a horse?
+1;7; ARTHUR;Yes!
+1;8; GUARD #1;You're using coconuts!
+1;9; ARTHUR;What?
+1;10; GUARD #1;You've got two empty halves of coconut and you're bangin' 'em together.
+1;11; ARTHUR;So? We have ridden since the snows of winter covered this land, through the kingdom of Mercea, through--
+1;12; GUARD #1;Where'd you get the coconut?
+1;13; ARTHUR;We found them.
+1;14; GUARD #1;Found them? In Mercea? The coconut's tropical!
+1;15; ARTHUR;What do you mean?
+1;16; GUARD #1;Well, this is a temperate zone.
+1;17; ARTHUR;The swallow may fly south with the sun or the house martin or the plumber may seek warmer climes in winter yet these are not strangers to our land.
+1;18; GUARD #1;Are you suggesting coconuts migrate?
+1;19; ARTHUR;Not at all, they could be carried.
+1;20; GUARD #1;What -- a swallow carrying a coconut?
+1;21; ARTHUR;It could grip it by the husk!
+1;22; GUARD #1;It's not a question of where he grips it! It's a simple question of weight ratios! A five ounce bird could not carry a 1 pound coconut.
+1;23; ARTHUR;Well, it doesn't matter. Will you go and tell your master that Arthur from the Court of Camelot is here.
+1;24; GUARD #1;Listen, in order to maintain air-speed velocity, a swallow needs to beat its wings 43 times every second, right?
+1;25; ARTHUR;Please!
+1;26; GUARD #1;Am I right?
+1;27; ARTHUR;I'm not interested!
+1;28; GUARD #2;It could be carried by an African swallow!
+1;29; GUARD #1;Oh, yeah, an African swallow maybe, but not a European swallow, that's my point.
+1;30; GUARD #2;Oh, yeah, I agree with that...
+1;31; ARTHUR;Will you ask your master if he wants to join my court at Camelot?!
+1;32; GUARD #1;But then of course African swallows are not migratory.
+1;33; GUARD #2;Oh, yeah...
+1;34; GUARD #1;So they couldn't bring a coconut back anyway...
+1;35; GUARD #2;Wait a minute -- supposing two swallows carried it together?
+1;36; GUARD #1;No, they'd have to have it on a line.
+1;37; GUARD #2;Well, simple! They'd just use a standard creeper!
+1;38; GUARD #1;What, held under the dorsal guiding feathers?
+1;39; GUARD #2;Well, why not?
+2;1; MORTICIAN;Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead! Bring out your dead!
+2;2; CUSTOMER;Here's one -- nine pence.
+2;3; DEAD PERSON;I'm not dead!
+2;4; MORTICIAN;What?
+2;5; CUSTOMER;Nothing -- here's your nine pence.
+2;6; DEAD PERSON;I'm not dead!
+2;7; MORTICIAN;Here -- he says he's not dead!
+2;8; CUSTOMER;Yes, he is.
+2;9; DEAD PERSON;I'm not!
+2;10; MORTICIAN;He isn't.
+2;11; CUSTOMER;Well, he will be soon, he's very ill.
+2;12; DEAD PERSON;I'm getting better!
+2;13; CUSTOMER;No, you're not -- you'll be stone dead in a moment.
+2;14; MORTICIAN;Oh, I can't take him like that -- it's against regulations.
+2;15; DEAD PERSON;I don't want to go in the cart!
+2;16; CUSTOMER;Oh, don't be such a baby.
+2;17; MORTICIAN;I can't take him...
+2;18; DEAD PERSON;I feel fine!
+2;19; CUSTOMER;Oh, do us a favor...
+2;20; MORTICIAN;I can't.
+2;21; CUSTOMER;Well, can you hang around a couple of minutes? He won't be long.
+2;22; MORTICIAN;Naaah, I got to go on to Robinson's -- they've lost nine today.
+2;23; CUSTOMER;Well, when is your next round?
+2;24; MORTICIAN;Thursday.
+2;25; DEAD PERSON;I think I'll go for a walk.
+2;26; CUSTOMER;You're not fooling anyone y'know. Look, isn't there something you can do?
+2;27; DEAD PERSON;I feel happy... I feel happy.
+2;28; CUSTOMER;Ah, thanks very much.
+2;29; MORTICIAN;Not at all. See you on Thursday.
+2;30; CUSTOMER;Right.
+2;31; MORTICIAN;Who's that then?
+2;32; CUSTOMER;I don't know.
+2;33; MORTICIAN;Must be a king.
+2;34; CUSTOMER;Why?
+2;35; MORTICIAN;He hasn't got shit all over him.
+3;1; ARTHUR;Old woman!
+3;2; DENNIS;Man!
+3;3; ARTHUR;Old Man, sorry. What knight live in that castle over there?
+3;4; DENNIS;I'm thirty seven.
+3;5; ARTHUR;What?
+3;6; DENNIS;I'm thirty seven -- I'm not old!
+3;7; ARTHUR;Well, I can't just call you `Man'.
+3;8; DENNIS;Well, you could say `Dennis'.
+3;9; ARTHUR;Well, I didn't know you were called `Dennis.'
+3;10; DENNIS;Well, you didn't bother to find out, did you?
+3;11; ARTHUR;I did say sorry about the `old woman,' but from the behind you looked--
+3;12; DENNIS;What I object to is you automatically treat me like an inferior!
+3;13; ARTHUR;Well, I AM king...
+3;14; DENNIS;Oh king, eh, very nice. An' how'd you get that, eh? By exploitin' the workers -- by 'angin' on to outdated imperialist dogma which perpetuates the economic an' social differences in our society! If there's ever going to be any progress--
+3;15; WOMAN;Dennis, there's some lovely filth down here. Oh -- how d'you do?
+3;16; ARTHUR;How do you do, good lady. I am Arthur, King of the Britons. Who's castle is that?
+3;17; WOMAN;King of the who?
+3;18; ARTHUR;The Britons.
+3;19; WOMAN;Who are the Britons?
+3;20; ARTHUR;Well, we all are. we're all Britons and I am your king.
+3;21; WOMAN;I didn't know we had a king. I thought we were an autonomous collective.
+3;22; DENNIS;You're fooling yourself. We're living in a dictatorship. A self-perpetuating autocracy in which the working classes--
+3;23; WOMAN;Oh there you go, bringing class into it again.
+3;24; DENNIS;That's what it's all about if only people would--
+3;25; ARTHUR;Please, please good people. I am in haste. Who lives in that castle?
+3;26; WOMAN;No one live there.
+3;27; ARTHUR;Then who is your lord?
+3;28; WOMAN;We don't have a lord.
+3;29; ARTHUR;What?
+3;30; DENNIS;I told you. We're an anarcho-syndicalist commune. We take it in turns to act as a sort of executive officer for the week.
+3;31; ARTHUR;Yes.
+3;32; DENNIS;But all the decision of that officer have to be ratified at a special biweekly meeting.
+3;33; ARTHUR;Yes, I see.
+3;34; DENNIS;By a simple majority in the case of purely internal affairs,--
+3;35; ARTHUR;Be quiet!
+3;36; DENNIS;--but by a two-thirds majority in the case of more--
+3;37; ARTHUR;Be quiet! I order you to be quiet!
+3;38; WOMAN;Order, eh -- who does he think he is?
+3;39; ARTHUR;I am your king!
+3;40; WOMAN;Well, I didn't vote for you.
+3;41; ARTHUR;You don't vote for kings.
+3;42; WOMAN;Well, 'ow did you become king then?
+3;43; ARTHUR;The Lady of the Lake, her arm clad in the purest shimmering samite, held aloft Excalibur from the bosom of the water signifying by Divine Providence that I, Arthur, was to carry Excalibur. That is why I am your king!
+3;44; DENNIS;Listen -- strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
+3;45; ARTHUR;Be quiet!
+3;46; DENNIS;Well you can't expect to wield supreme executive power just 'cause some watery tart threw a sword at you!
+3;47; ARTHUR;Shut up!
+3;48; DENNIS;I mean, if I went around sayin' I was an empereror just because some moistened bint had lobbed a scimitar at me they'd put me away!
+3;49; ARTHUR;Shut up! Will you shut up!
+3;50; DENNIS;Ah, now we see the violence inherent in the system.
+3;51; ARTHUR;Shut up!
+3;52; DENNIS;Oh! Come and see the violence inherent in the system! HELP! HELP! I'm being repressed!
+3;53; ARTHUR;Bloody peasant!
+3;54; DENNIS;Oh, what a give away. Did you here that, did you here that, eh? That's what I'm on about -- did you see him repressing me, you saw it didn't you?
+4;1; ARTHUR;You fight with the strength of many men, Sir knight. I am Arthur, King of the Britons. I seek the finest and the bravest knights in the land to join me in my Court of Camelot. You have proved yourself worthy. will you join me? You make me sad. So be it. Come, Patsy.
+4;2; BLACK KNIGHT;None shall pass.
+4;3; ARTHUR;What?
+4;4; BLACK KNIGHT;None shall pass.
+4;5; ARTHUR;I have no quarrel with you, good Sir knight, but I must cross this bridge.
+4;6; BLACK KNIGHT;Then you shall die.
+4;7; ARTHUR;I command you as King of the Britons to stand aside!
+4;8; BLACK KNIGHT;I move for no man.
+4;9; ARTHUR;So be it!Now stand aside, worthy adversary.
+4;10; BLACK KNIGHT;'Tis but a scratch.
+4;11; ARTHUR;A scratch? Your arm's off!
+4;12; BLACK KNIGHT;No, it isn't.
+4;13; ARTHUR;Well, what's that then?
+4;14; BLACK KNIGHT;I've had worse.
+4;15; ARTHUR;You liar!
+4;16; BLACK KNIGHT;Come on you pansy!
+4;17; ARTHUR;Victory is mine! We thank thee Lord, that in thy merc-
+4;18; BLACK KNIGHT;Come on then.
+4;19; ARTHUR;What?
+4;20; BLACK KNIGHT;Have at you!
+4;21; ARTHUR;You are indeed brave, Sir knight, but the fight is mine.
+4;22; BLACK KNIGHT;Oh, had enough, eh?
+4;23; ARTHUR;Look, you stupid bastard, you've got no arms left.
+4;24; BLACK KNIGHT;Yes I have.
+4;25; ARTHUR;Look!
+4;26; BLACK KNIGHT;Just a flesh wound.
+4;27; ARTHUR;Look, stop that.
+4;28; BLACK KNIGHT;Chicken! Chicken!
+4;29; ARTHUR;Look, I'll have your leg. Right!
+4;30; BLACK KNIGHT;Right, I'll do you for that!
+4;31; ARTHUR;You'll what?
+4;32; BLACK KNIGHT;Come 'ere!
+4;33; ARTHUR;What are you going to do, bleed on me?
+4;34; BLACK KNIGHT;I'm invincible!
+4;35; ARTHUR;You're a loony.
+4;36; BLACK KNIGHT;The Black Knight always triumphs! Have at you! Come on then.All right. we'll call it a draw.
+4;37; ARTHUR;Come, Patsy.
+4;38; BLACK KNIGHT;Oh, oh, I see, running away then. You yellow bastards! Come back here and take what's coming to you. I'll bite your legs off!
+5;1; CROWD;A witch! A witch! A witch! We've got a witch! A witch!
+5;2; VILLAGER #1;We have found a witch, might we burn her?
+5;3; CROWD;Burn her! Burn!
+5;4; BEDEMIR;How do you know she is a witch?
+5;5; VILLAGER #2;She looks like one.
+5;6; BEDEMIR;Bring her forward.
+5;7; WITCH;I'm not a witch. I'm not a witch.
+5;8; BEDEMIR;But you are dressed as one.
+5;9; WITCH;They dressed me up like this.
+5;10; CROWD;No, we didn't... no.
+5;11; WITCH;And this isn't my nose, it's a false one.
+5;12; BEDEMIR;Well?
+5;13; VILLAGER #1;Well, we did do the nose.
+5;14; BEDEMIR;The nose?
+5;15; VILLAGER #1;And the hat -- but she is a witch!
+5;16; CROWD;Burn her! Witch! Witch! Burn her!
+5;17; BEDEMIR;Did you dress her up like this?
+5;18; CROWD;No, no... no ... yes. Yes, yes, a bit, a bit.
+5;19; VILLAGER #1;She has got a wart.
+5;20; BEDEMIR;What makes you think she is a witch?
+5;21; VILLAGER #3;Well, she turned me into a newt.
+5;22; BEDEMIR;A newt?
+5;23; VILLAGER #3;I got better.
+5;24; VILLAGER #2;Burn her anyway!
+5;25; CROWD;Burn! Burn her!
+5;26; BEDEMIR;Quiet, quiet. Quiet! There are ways of telling whether she is a witch.
+5;27; CROWD;Are there? What are they?
+5;28; BEDEMIR;Tell me, what do you do with witches?
+5;29; VILLAGER #2;Burn!
+5;30; CROWD;Burn, burn them up!
+5;31; BEDEMIR;And what do you burn apart from witches?
+5;32; VILLAGER #1;More witches!
+5;33; VILLAGER #2;Wood!
+5;34; BEDEMIR;So, why do witches burn?
+5;35; VILLAGER #3;B--... 'cause they're made of wood...?
+5;36; BEDEMIR;Good!
+5;37; CROWD;Oh yeah, yeah...
+5;38; BEDEMIR;So, how do we tell whether she is made of wood?
+5;39; VILLAGER #1;Build a bridge out of her.
+5;40; BEDEMIR;Aah, but can you not also build bridges out of stone?
+5;41; VILLAGER #2;Oh, yeah.
+5;42; BEDEMIR;Does wood sink in water?
+5;43; VILLAGER #1;No, no.
+5;44; VILLAGER #2;It floats! It floats!
+5;45; VILLAGER #1;Throw her into the pond!
+5;46; CROWD;The pond!
+5;47; BEDEMIR;What also floats in water?
+5;48; VILLAGER #1;Bread!
+5;49; VILLAGER #2;Apples!
+5;50; VILLAGER #3;Very small rocks!
+5;51; VILLAGER #1;Cider!
+5;52; VILLAGER #2;Great gravy!
+5;53; VILLAGER #1;Cherries!
+5;54; VILLAGER #2;Mud!
+5;55; VILLAGER #3;Churches -- churches!
+5;56; VILLAGER #2;Lead -- lead!
+5;57; ARTHUR;A duck.
+5;58; CROWD;Oooh.
+5;59; BEDEMIR;Exactly! So, logically...,
+5;60; VILLAGER #1;If... she.. weighs the same as a duck, she's made of wood.
+5;61; BEDEMIR;And therefore--?
+5;62; VILLAGER #1;A witch!
+5;63; CROWD;A witch!
+5;64; BEDEMIR;We shall use my larger scales!Right, remove the supports!
+5;65; CROWD;A witch! A witch!
+5;66; WITCH;It's a fair cop.
+5;67; CROWD;Burn her! Burn! [yelling]
+5;68; BEDEMIR;Who are you who are so wise in the ways of science?
+5;69; ARTHUR;I am Arthur, King of the Britons.
+5;70; BEDEMIR;My liege!
+5;71; ARTHUR;Good Sir knight, will you come with me to Camelot, and join us at the Round Table?
+5;72; BEDEMIR;My liege! I would be honored.
+5;73; ARTHUR;What is your name?
+5;74; BEDEMIR;Bedemir, my leige.
+5;75; ARTHUR;Then I dub you Sir Bedemir, Knight of the Round Table.
+5;76; NARRATOR;The wise Sir Bedemir was the first to join King Arthur's knights, but other illustrious names were soon to follow: Sir Launcelot the Brave. Sir Galahad the Pure. and Sir Robin the Not-quite-so-brave-as-Sir-Launcelot who had nearly fought the Dragon of Agnor, who had nearly stood up to the vicious Chicken of Bristol and who had personally wet himself at the Battle of Badon Hill. and the aptly named Sir Not-appearing-in-this-film. Together they formed a band whose names and deeds were to be retold throughout the centuries, the Knights of the Round Table.
+6;1; BEDEMIR;And that, my liege, is how we know the Earth to be banana-shaped.
+6;2; ARTHUR;This new learning amazes me, Sir Bedemir. Explain again how sheeps' bladders may be employed to prevent earthquakes.
+6;3; BEDEMIR;Oh, certainly, sir.
+6;4; LAUNCELOT;Look, my liege!
+6;5; ARTHUR;Camelot!
+6;6; GALAHAD;Camelot!
+6;7; LAUNCELOT;Camelot!
+6;8; PATSY;It's only a model.
+6;9; ARTHUR;Shhh! Knights, I bid you welcome to your new home. Let us ride... to Camelot. We're knights of the round table We dance when e'er we're able We do routines and parlour scenes With footwork impecc-Able. We dine well here in Camelot We eat ham and jam and spam a lot We're knights of the Round Table Our shows are for-mid-able Though many times we're given rhymes That are quite unsing-able We not so fat in Camelot We sing from the diaphragm a lot Oh we're tough and able Quite indefatigable Between our quests we sequin vests And impersonate Clark Gable It's a bit too loud in Camelot I have to push the pram a lot.Well, on second thought, let's not go to Camelot -- it is a silly place. Right.
+7;1; GOD;Arthur! Arthur, King of the Britons! Oh, don't grovel! If there's one thing I can't stand, it's people groveling.
+7;2; ARTHUR;Sorry--
+7;3; GOD;"And don't apologize. Every time I try to talk to someone it's ""sorry this"" and ""forgive me that"" and ""I'm not worthy"". What are you doing now!?"
+7;4; ARTHUR;I'm averting my eyes, oh Lord.
+7;5; GOD;Well, don't. It's like those miserable Psalms-- they're so depressing. Now knock it off!
+7;6; ARTHUR;Yes, Lord.
+7;7; GOD;Right! Arthur, King of the Britons -- your Knights of the Round Table shall have a task to make them an example in these dark times.
+7;8; ARTHUR;Good idea, oh Lord!
+7;9; GOD;'Course it's a good idea! Behold! Arthur, this is the Holy Grail. Look well, Arthur, for it is your sacred task to seek this Grail. That is your purpose, Arthur -- the Quest for the Holy Grail.
+7;10; ARTHUR;A blessing!
+7;11; LAUNCELOT;A blessing from the Lord!
+7;12; GALAHAD;God be praised!
+8;1; ARTHUR;Halt! Hallo! Hallo!
+8;2; GUARD;'Allo! Who is zis?
+8;3; ARTHUR;It is King Arthur, and these are the Knights of the Round Table. Who's castle is this?
+8;4; GUARD;This is the castle of Our Master Ruiz' de lu la Ramper (sp?)
+8;5; ARTHUR;Go and tell your master that we have been charged by God with a sacred quest. If he will give us food and shelter for the night he can join us in our quest for the Holy Grail.
+8;6; GUARD;Well, I'll ask him, but I don't think he'll be very keen... Uh, he's already got one, you see?
+8;7; ARTHUR;What?
+8;8; GALAHAD;He says they've already got one!
+8;9; ARTHUR;Are you sure he's got one?
+8;10; GUARD;Oh, yes, it's very nice-a [To Other Guards] I told him we already got one.
+8;11; OTHER GUARDS;[Laughing]
+8;12; ARTHUR;Well, um, can we come up and have a look?
+8;13; GUARD;Of course not! You are English types-a!
+8;14; ARTHUR;Well, what are you then?
+8;15; GUARD;I'm French! Why do think I have this outrageous accent, you silly king!
+8;16; GALAHAD;What are you doing in England?
+8;17; GUARD;Mind your own business!
+8;18; ARTHUR;If you will not show us the Grail, we shall take your castle by force!
+8;19; GUARD;You don't frighten us, English pig-dogs! Go and boil your bottoms, sons of a silly person. I blow my nose at you, so-called Arthur-king, you and all your silly English kaniggets. Thppppt!
+8;20; GALAHAD;What a strange person.
+8;21; ARTHUR;Now look here, my good man!
+8;22; GUARD;I don't want to talk to you no more, you empty headed animal food trough whopper! I fart in your general direction! You mother was a hamster and your father smelt of eldeberries.
+8;23; GALAHAD;Is there someone else up there we could talk to?
+8;24; GUARD;No, now go away or I shall taunt you a second time-a!
+8;25; ARTHUR;Now, this is your last chance. I've been more than reasonable.
+8;26; GUARD;(Fetchez la vache.) wha?(Fetchez la vache!)
+8;27; ARTHUR;If you do not agree to my commands, then I shall-- Jesus Christ! Right! Charge!
+8;28; ALL;Charge!
+8;29; GUARD;Ah, this one is for your mother!
+8;30; ALL;Run away!
+8;31; GUARD;Thpppt!
+8;32; LAUNCELOT;Fiends! I'll tear them apart!
+8;33; ARTHUR;No no, no.
+8;34; BEDEMIR;Sir! I have a plan, sir.
+8;35; MUTTERING GUARDS;ce labon a bunny do wha? un cadeau? a present! oh, un cadeau. oui oui hurry! wha-? let's go!
+8;36; ARTHUR;What happens now?
+8;37; BEDEMIR;Well, now, uh, Launcelot, Galahad, and I wait until nightfall, and then leap out of the rabbit, taking the French by surprise -- not only by surprise, but totally unarmed!
+8;38; ARTHUR;Who leaps out?
+8;39; BEDEMIR;Uh, Launcelot, Galahad, and I. Uh, leap out of the rabbit, uh and uh....
+8;40; ARTHUR;Oh....
+8;41; BEDEMIR;Oh.... Um, l-look, if we built this large wooden badger--
+8;42; ALL;Run away! Run away! Run away! Run away!
+9;1; GUARDS;Oh, haw haw haw. Pictures for Schools, take 8.
+9;2; DIRECTOR;Action!
+9;3; NARRATOR;Defeat at the castle seems to have utterly disheartened King Arthur. The ferocity of the French taunting took him completely by surprise, and Arthur became convinced that a new strategy was required if the quest for the Holy Grail were to be brought to a successful conclusion. Arthur, having consulted his closest knights, decided that they should separate, and search for the Grail individually. Now, this is what they did--
+9;4; WOMAN;Greg!
+10;1; NARRATOR;The Tale of Sir Robin.... So each of the knights went their separate ways. Sir Robin rode north, through the dark forest of Ewing, accompanied by his favorite minstrels.
+10;2; MINSTREL (singing); Bravely bold Sir Robin, rode forth from Camelot. He was not afraid to die, o Brave Sir Robin. He was not at all afraid to be killed in nasty ways. Brave, brave, brave, brave Sir Robin! He was not in the least bit scared to be mashed into a pulp, Or to have his eyes gouged out, and his elbows broken. To have his kneecaps split, and his body burned away, And his limbs all hacked and mangled, brave Sir Robin! His head smashed in and his heart cut out, And his liver removed and his bowels unplugged, And his nostrils ripped and his bottom burned off, And his penis--
+10;3; ROBIN;That's -- that's, uh, that's enough music for now, lads. Looks like there's dirty work afoot.
+10;4; DENNIS;Anarcho-syndicalism is a way of preserving freedom.
+10;5; WOMAN;Oh, Dennis, forget about freedom. Now I've dropped my mud.
+10;6; ALL HEADS;Halt! Who art thou?
+10;7; MINSTREL (singing);He is brave Sir Robin, brave Sir Robin, who--
+10;8; ROBIN;Shut up! Um, n-n-nobody really, I'm j-just um, just passing through.
+10;9; ALL HEADS;What do you want?
+10;10; MINSTREL (singing);To fight, and--
+10;11; ROBIN;Shut up! Um, oo, n-nothing, nothing really -- I, uh, j-j-ust to um, just to p-pass through, good Sir knight.
+10;12; ALL HEADS;I'm afraid not!
+10;13; ROBIN;Ah. W-well, actually I am a Knight of the Round Table.
+10;14; ALL HEADS;You're a Knight of the Round Table?
+10;15; ROBIN;I am.
+10;16; LEFT HEAD;In that case I shall have to kill you.
+10;17; MIDDLE HEAD;Shall I?
+10;18; RIGHT HEAD;Oh, I don't think so.
+10;19; MIDDLE HEAD;Well, what do I think?
+10;20; LEFT HEAD;I think kill him.
+10;21; RIGHT HEAD;Well let's be nice to him.
+10;22; MIDDLE HEAD;Oh shut up.
+10;23; LEFT HEAD;Perhaps-
+10;24; MIDDLE HEAD;And you.
+10;25; LEFT HEAD;Oh quick get the sword out I want to cut his head off!
+10;26; RIGHT HEAD;Oh, cut your own head off!
+10;27; MIDDLE HEAD;Yes, do us all a favor!
+10;28; LEFT HEAD;What?
+10;29; RIGHT HEAD;Yapping on all the time.
+10;30; MIDDLE HEAD;You're lucky. You're not next to him.
+10;31; LEFT HEAD;What do you mean?
+10;32; MIDDLE HEAD;You snore.
+10;33; LEFT HEAD;Oh I don't -- anyway, you've got bad breath.
+10;34; MIDDLE HEAD;Well its only because you don't brush my teeth.
+10;35; RIGHT HEAD;Oh stop bitching and let's go have tea.
+10;36; LEFT HEAD;All right, all right, all right. We'll kill him first and then have tea and biscuits.
+10;37; MIDDLE HEAD;Yes.
+10;38; RIGHT HEAD;Oh, but not biscuits.
+10;39; LEFT HEAD;All right, all right, not biscuits, but lets kill him anyway.
+10;40; ALL HEADS;Right!
+10;41; LEFT HEAD;He buggered off.
+10;42; RIGHT HEAD;So he has, he's scarpered.
+10;43; MINSTREL (singing);Brave Sir Robin ran away
+10;44; ROBIN;No!
+10;45; MINSTREL (singing);Bravely ran away away
+10;46; ROBIN;I didn't!
+10;47; MINSTREL (singing);When danger reared its ugly head, He bravely turned his tail and fled
+10;48; ROBIN;No!
+10;49; MINSTREL (singing);Yes Brave Sir Robin turned about
+10;50; ROBIN;I didn't!
+10;51; MINSTREL (singing);And gallantly he chickened out Bravely taking to his feet
+10;52; ROBIN;I never did!
+10;53; MINSTREL (singing);He beat a very brave retreat
+10;54; ROBIN;Oh, lie!
+10;55; MINSTREL (singing);Bravest of the brave Sir Robin
+10;56; ROBIN;I never!
+11;1; NARRATOR;The Tale of Sir Galahad
+11;2; GALAHAD;Open the door! Open the door! In the name of King Arthur, open the door!
+11;3; ALL;Hello!
+11;4; ZOOT;Welcome gentle Sir knight, welcome to the Castle Anthrax.
+11;5; GALAHAD;The Castle Anthrax?
+11;6; ZOOT;Yes... oh, it's not a very good name? Oh! but we are nice and we shall attend to your every, every need!
+11;7; GALAHAD;You are the keepers of the Holy Grail?
+11;8; ZOOT;The what?
+11;9; GALAHAD;The Grail -- it is here?
+11;10; ZOOT;Oh, but you are tired, and you must rest awhile. Midget! Crepper!
+11;11; MIDGET and CREPPER;Yes, oh Zoot!
+11;12; ZOOT;Prepare a bed for our guest.
+11;13; MIDGET and CREPPER;Oh thank you thank you thank you--
+11;14; ZOOT;Away away vile temptress! The beds here are warm and soft -- and very, very big.
+11;15; GALAHAD;Well, look, I-I-uh--
+11;16; ZOOT;What is your name, handsome knight?
+11;17; GALAHAD;Sir Galahad... the Chaste.
+11;18; ZOOT;Mine is Zoot... just Zoot. Oh, but come!
+11;19; GALAHAD;Look, please! In God's name, show me the Grail!
+11;20; ZOOT;Oh, you have suffered much! You are delirious!
+11;21; GALAHAD;L-look, I have seen it! It is here, in the--
+11;22; ZOOT;Sir Galahad! You would not be so ungallant as to refuse our hospitality.
+11;23; GALAHAD;Well, I-I-uh--
+11;24; ZOOT;Oh, I am afraid our life must seem very dull and quiet compared to yours. We are but eight score young blondes and brunettes, all between sixteen and nineteen and a half, cut off in this castle with no one to protect us! Oh, it is a lonely life -- bathing, dressing, undressing, making exciting underwear.... We are just not used to handsome knights. Nay, nay, come, come, you may lie here. Oh, but you are wounded!
+11;25; GALAHAD;No, no -- i-it's nothing!
+11;26; ZOOT;Oh, but you must see the doctors immediately! No, no, please, lie down.
+11;27; PIGLET;Ah. What seems to be the trouble?
+11;28; GALAHAD;They're doctors?!
+11;29; ZOOT;Uh, they've had a basic medical training, yes.
+11;30; GALAHAD;B-but--
+11;31; ZOOT;Oh, come come, you must try to rest! Doctor Piglet, Doctor Winston, practice your art.
+11;32; PIGLET;Try to relax.
+11;33; GALAHAD;Are you sure that's necessary?
+11;34; PIGLET;We must examine you.
+11;35; GALAHAD;There's nothing wrong with that!
+11;36; PIGLET;Please -- we are doctors.
+11;37; GALAHAD;Get off the bed! I am sworn to chastity!
+11;38; PIGLET;Back to your bed!
+11;39; GALAHAD;Torment me no longer! I have seen the Grail!
+11;40; PIGLET;There's no grail here.
+11;41; GALAHAD;I have seen it, I have seen it. I have seen--
+11;42; GIRLS;Hello.
+11;43; GALAHAD;Oh--
+11;44; VARIOUS GIRLS;Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+11;45; GALAHAD;Zoot!
+11;46; DINGO;No, I am Zoot's identical twin sister, Dingo.
+11;47; GALAHAD;Oh, well, excuse me, I--
+11;48; DINGO;Where are you going?
+11;49; GALAHAD;I seek the Grail! I have seen it, here in this castle!
+11;50; DINGO;No! Oh, no! Bad, bad Zoot!
+11;51; GALAHAD;What is it?
+11;52; DINGO;Oh, wicked, bad, naughty Zoot! She has been setting alight to our beacon, which, I just remembered, is grail-shaped. It's not the first time we've had this problem.
+11;53; GALAHAD;It's not the real Grail?
+11;54; DINGO;Oh, wicked, bad, naughty, evil Zoot! Oh, she is a naughty person, and she must pay the penalty -- and here in Castle Anthrax, we have but one punishment for setting alight the grail-shaped beacon. You must tie her down on a bed and spank her!
+11;55; GIRLS;A spanking! A spanking!
+11;56; DINGO;You must spank her well. And after you have spanked her, you may deal with her as you like. And then, spank me.
+11;57; VARIOUS GIRLS;And spank me. And me. And me.
+11;58; DINGO;Yes, yes, you must give us all a good spanking!
+11;59; GIRLS;A spanking! A spanking!
+11;60; DINGO;And after the spanking, the oral sex.
+11;61; GIRLS;Oral sex! Oral sex!
+11;62; GALAHAD;Well, I could stay a BIT longer.
+11;63; LAUNCELOT;Sir Galahad!
+11;64; GALAHAD;Oh, hello.
+11;65; LAUNCELOT;Quick!
+11;66; GALAHAD;What?
+11;67; LAUNCELOT;Quick!
+11;68; GALAHAD;Why?
+11;69; LAUNCELOT;You're in great peril!Silence, foul temptress!
+11;70; GALAHAD;Now look, it's not important.
+11;71; LAUNCELOT;Quick! Come on and we'll cover your escape!
+11;72; GALAHAD;Look, I'm fine!
+11;73; LAUNCELOT;Come on!
+11;74; GALAHAD;Now look, I can tackle this lot single-handed!
+11;75; DINGO;Yes! Let him tackle us single-handed!
+11;76; GIRLS;Yes! Tackle us single-handed!
+11;77; LAUNCELOT;No, Sir Galahad, come on!
+11;78; GALAHAD;No, really, honestly, I can go back and handle this lot easily!
+11;79; DINGO;Oh, yes, he can handle us easily.
+11;80; GIRLS;Yes, yes!
+11;81; GALAHAD;Wait! I can defeat them! There's only a hundred and fifty of them!
+11;82; DINGO;Yes, yes, he'll beat us easily, we haven't a chance.
+11;83; GIRLS;Yes, yes.
+11;84; DINGO;Oh, shit.
+11;85; LAUNCELOT;We were in the nick of time, you were in great peril.
+11;86; GALAHAD;I don't think I was.
+11;87; LAUNCELOT;Yes you were, you were in terrible peril.
+11;88; GALAHAD;Look, let me go back in there and face the peril.
+11;89; LAUNCELOT;No, it's too perilous.
+11;90; GALAHAD;Look, I'm a knight, I'm supposed to get as much peril as I can.
+11;91; LAUNCELOT;No, we've got to find the Holy Grail. Come on!
+11;92; GALAHAD;Well, let me have just a little bit of peril?
+11;93; LAUNCELOT;No, it's unhealthy.
+11;94; GALAHAD;Bet you're gay!
+11;95; LAUNCELOT;No, I'm not.
+11;96; NARRATOR;Sir Launcelot had saved Sir Galahad from almost certain temptation, but they were still no nearer the Grail. Meanwhile, King Arthur and Sir Bedemir, not more than a swallow's flight away, had discovered something. Oh, that's an unladen swallow's flight, obviously. I mean, they were more than two laden swallow's flights away -- four, really, if they hadn't a cord of line between them. I mean, if the birds were walking and dragging--
+11;97; CROWD;Get on with it!
+11;98; NARRATOR;Oh, anyway, on to scene twenty-four, which is a smashing scene with some lovely acting, in which Arthur discovers a vital clue, in which there aren't any swallows, although I think you can hear a starling -oolp!
+24;1; OLD MAN;Ah, hee he he ha!
+24;2; ARTHUR;And this enchanter of whom you speak, he has seen the grail?
+24;3; OLD MAN;Ha ha he he he he!
+24;4; ARTHUR;Where does he live? Old man, where does he live?
+24;5; OLD MAN;He knows of a cave, a cave which no man has entered.
+24;6; ARTHUR;And the Grail... The Grail is there?
+24;7; OLD MAN;Very much danger, for beyond the cave lies the Gorge of Eternal Peril, which no man has ever crossed.
+24;8; ARTHUR;But the Grail! Where is the Grail!?
+24;9; OLD MAN;Seek you the Bridge of Death.
+24;10; ARTHUR;The Bridge of Death, which leads to the Grail?
+24;11; OLD MAN;Hee hee ha ha!
+25;1; HEAD KNIGHT;Nee! Nee! Nee! Nee!
+25;2; ARTHUR;Who are you?
+25;3; HEAD KNIGHT;We are the Knights Who Say... Nee!
+25;4; ARTHUR;No! Not the Knights Who Say Nee!
+25;5; HEAD KNIGHT;The same!
+25;6; BEDEMIR;Who are they?
+25;7; HEAD KNIGHT;We are the keepers of the sacred words: Nee, Pen, and Nee-wom!
+25;8; RANDOM;Nee-wom!
+25;9; ARTHUR;Those who hear them seldom live to tell the tale!
+25;10; HEAD KNIGHT;The Knights Who Say Nee demand a sacrifice!
+25;11; ARTHUR;Knights of Nee, we are but simple travellers who seek the enchanter who lives beyond these woods.
+25;12; HEAD KNIGHT;Nee! Nee! Nee! Nee!
+25;13; ARTHUR and PARTY;Oh, ow!
+25;14; HEAD KNIGHT;We shall say 'nee' again to you if you do not appease us.
+25;15; ARTHUR;Well, what is it you want?
+25;16; HEAD KNIGHT;We want... a shrubbery!
+25;17; ARTHUR;A what?
+25;18; HEAD KNIGHT;Nee! Nee!
+25;19; ARTHUR and PARTY;Oh, ow!
+25;20; ARTHUR;Please, please! No more! We shall find a shrubbery.
+25;21; HEAD KNIGHT;You must return here with a shrubbery or else you will never pass through this wood alive!
+25;22; ARTHUR;O Knights of Nee, you are just and fair, and we will return with a shrubbery.
+25;23; HEAD KNIGHT;One that looks nice.
+25;24; ARTHUR;Of course.
+25;25; HEAD KNIGHT;And not too expensive.
+25;26; ARTHUR;Yes.
+25;27; HEAD KNIGHTS;Now... go!
+26;1; NARRATOR;The Tale of Sir Launcelot.
+26;2; FATHER;One day, lad, all this will be yours!
+26;3; ERBERT;What, the curtains?
+26;4; FATHER;No, not the curtains, lad. All that you can see! Stretched out over the hills and valleys of this land! This'll be your kingdom, lad!
+26;5; HERBERT;But, Mother--
+26;6; FATHER;Father, I'm Father.
+26;7; HERBERT;But Father, I don't want any of that.
+26;8; FATHER;Listen, lad. I've built this kingdom up from nothing. When I started here, all there was was swamp. All the kings said I was daft to build a castle in a swamp, but I built it all the same, just to show 'em. It sank into the swamp. So, I built a second one. That sank into the swamp. So I built a third one. That burned down, fell over, then sank into the swamp. But the fourth one stayed up. An' that's what your gonna get, lad -- the strongest castle in these islands.
+26;9; HERBERT;But I don't want any of that -- I'd rather--
+26;10; FATHER;Rather what?!
+26;11; HERBERT;I'd rather... just... ...sing!
+26;12; FATHER;Stop that, stop that! You're not going to do a song while I'm here. Now listen lad, in twenty minutes you're getting married to a girl whose father owns the biggest tracts of open land in Britain.
+26;13; HERBERT;But I don't want land.
+26;14; FATHER;Listen, Alex,--
+26;15; HERBERT;Herbert.
+26;16; FATHER;Herbert. We live in a bloody swamp. We need all the land we can get.
+26;17; HERBERT;But I don't like her.
+26;18; FATHER;Don't like her?! What's wrong with her? She's beautiful, she's rich, she's got huge... tracts of land.
+26;19; HERBERT;I know, but I want the girl that I marry to have... a certain... special... ...something...
+26;20; FATHER;Cut that out, cut that out. Look, you're marryin' Princess Lucky, so you'd better get used to the idea. [smack] Guards! Make sure the Prince doesn't leave this room until I come and get 'im.
+26;21; GUARD #1;Not to leave the room even if you come and get him.
+26;22; GUARD #2;Hic!
+26;23; FATHER;No, no. Until I come and get 'im.
+26;24; GUARD #1;Until you come and get him, we're not to enter the room.
+26;25; FATHER;No, no, no. You stay in the room and make sure 'e doesn't leave.
+26;26; GUARD #1;And you'll come and get him.
+26;27; GUARD #2;Hic!
+26;28; FATHER;Right.
+26;29; GUARD #1;We don't need to do anything, apart from just stop him entering the room.
+26;30; FATHER;No, no. Leaving the room.
+26;31; GUARD #1;Leaving the room, yes.
+26;32; FATHER;All right?
+26;33; GUARD #1;Right. Oh, if-if-if, uh, if-if-if, uh, if-if-if we...
+26;34; FATHER;Yes, what is it?
+26;35; GUARD #1;Oh, if-if, oh--
+26;36; FATHER;Look, it's quite simple.
+26;37; GUARD #1;Uh...
+26;38; FATHER;You just stay here, and make sure 'e doesn't leave the room. All right?
+26;39; GUARD #2;Hic!
+26;40; FATHER;Right.
+26;41; GUARD #1;Oh, I remember. Uh, can he leave the room with us?
+26;42; FATHER;N- No no no. You just keep him in here, and make sure--
+26;43; GUARD #1;Oh, yes, we'll keep him in here, obviously. But if he had to leave and we were--
+26;44; FATHER;No, no, just keep him in here--
+26;45; GUARD #1;Until you, or anyone else,--
+26;46; FATHER;No, not anyone else, just me--
+26;47; GUARD #1;Just you.
+26;48; GUARD #2;Hic!
+26;49; FATHER;Get back.
+26;50; GUARD #1;Get back.
+26;51; FATHER;Right?
+26;52; GUARD #1;Right, we'll stay here until you get back.
+26;53; FATHER;And, uh, make sure he doesn't leave.
+26;54; GUARD #1;What?
+26;55; FATHER;Make sure 'e doesn't leave.
+26;56; GUARD #1;The Prince?
+26;57; FATHER;Yes, make sure 'e doesn't leave.
+26;58; GUARD #1;Oh, yes, of course. I thought you meant him. Y'know, it seemed a bit daft, me havin' to guard him when he's a guard.
+26;59; FATHER;Is that clear?
+26;60; GUARD #2;Hic!
+26;61; GUARD #1;Oh, quite clear, no problems.
+26;62; FATHER;Right. Where are you going?
+26;63; GUARD #1;We're coming with you.
+26;64; FATHER;No no, I want you to stay 'ere and make sure 'e doesn't leave.
+26;65; GUARD #1;Oh, I see. Right.
+26;66; HERBERT;But, Father!
+26;67; FATHER;Shut your noise, you! And get that suit on! And no singing!
+26;68; GUARD #2;Hic!
+26;69; FATHER;Oh, go get a glass of water.
+27;1; LAUNCELOT;Well taken, Concorde!
+27;2; CONCORDE;Thank you, sir! Most kind.
+27;3; LAUNCELOT;And again... Over we go! Good. Steady! And now, the big one...Ooof! Come on, Concorde!
+27;4; CONCORDE;Message for you, sir.
+27;5; LAUNCELOT;"Concorde! Concorde, speak to me! ""To whoever finds this note, I have been imprisoned by my father, who wishes me to marry against my will. Please, please, please come and rescue me. I am in the tall tower of Swamp Castle."" At last! A call, a cry of distress! This could be the sign that leads us to the Holy Grail! Brave, brave Concorde! You shall not have died in vain!"
+27;6; CONCORDE;Uh, I'm-I'm not quite dead, sir.
+27;7; LAUNCELOT;Well, you shall not have been mortally wounded in vain!
+27;8; CONCORDE;Uh, I-I think uh, I could pull through, sir.
+27;9; LAUNCELOT;Oh, I see.
+27;10; CONCORDE;Actually, I think I'm all right to come with you--
+27;11; LAUNCELOT;No, no, sweet Concorde! Stay here! I will send help as soon as I have accomplished a daring and heroic rescue in my own particular... (sigh)
+27;12; CONCORDE;Idiom, sir?
+27;13; LAUNCELOT;Idiom!
+27;14; CONCORDE;No, I feel fine, actually, sir.
+27;15; LAUNCELOT;Farewell, sweet Concorde!
+27;16; CONCORDE;I'll-uh, I'll just stay here, then, shall I, sir? Yeah.
+28;1; LAUNCELOT;Ha-ha! etc.
+28;2; GUARD #1;Now, you're not allowed to come in here, and we're-ugh!
+28;3; LAUNCELOT;O fair one, behold your humble servant Sir Launcelot of Camelot. I have come to take -- oh, I'm terribly sorry.
+28;4; HERBERT;You got my note!
+28;5; LAUNCELOT;Uh, well, I got A note.
+28;6; HERBERT;You've come to rescue me!
+28;7; LAUNCELOT;Uh, well, no, you see...
+28;8; HERBERT;I knew that someone would, I knew that somewhere out there... there must be... ...someone...
+28;9; FATHER;Stop that, stop that, stop it! Stop it! Who are you?
+28;10; HERBERT;I'm your son!
+28;11; FATHER;No, not you.
+28;12; LAUNCELOT;I'm Sir Launcelot, sir.
+28;13; HERBERT;He's come to rescue me, father.
+28;14; LAUNCELOT;Well, let's not jump to conclusions.
+28;15; FATHER;Did you kill all the guard?
+28;16; LAUNCELOT;Uh..., oh, yes. Sorry.
+28;17; FATHER;They cost fifty pounds each.
+28;18; LAUNCELOT;Well, I'm awfully sorry, I'm -- I really can explain everything.
+28;19; HERBERT;Don't be afraid of him, Sir Launcelot, I've got a rope all ready!
+28;20; FATHER;You killed eight wedding guests in all!
+28;21; LAUNCELOT;Well, you see, the thing is, I thought your son was a lady.
+28;22; FATHER;I can understand that.
+28;23; HERBERT;Hurry, Sir Launcelot! Hurry!
+28;24; FATHER;Shut up! You only killed the bride's father, that's all!
+28;25; LAUNCELOT;Well, I really didn't mean to...
+28;26; FATHER;Didn't mean to?! You put your sword right through his head!
+28;27; LAUNCELOT;Oh, dear. Is he all right?
+28;28; FATHER;You even kicked the bride in the chest! This is going to cost me a fortune!
+28;29; LAUNCELOT;Well, I can explain. I was in the forest, um, riding north from Camelot, when I got this note, you see--
+28;30; FATHER;Camelot? Are you from, uh, Camelot?
+28;31; HERBERT;Hurry, Sir Launcelot!
+28;32; LAUNCELOT;Uh, I am a Knight of King Arthur, sir.
+28;33; FATHER;Pretty nice castle, Camelot. Uh, pretty good pig country....
+28;34; LAUNCELOT;Yes.
+28;35; HERBERT;Hurry, I'm ready!
+28;36; FATHER;Would you, uh, like to come and have a drink?
+28;37; LAUNCELOT;Well, that's, uh, awfully nice of you.
+28;38; HERBERT;I am ready!
+28;39; LAUNCELOT;--I mean to be, so understanding.
+28;40; HERBERT;Oooh!
+28;41; LAUNCELOT;Um, I think when I'm in this idiom, I sometimes get a bit, uh, sort of carried away.
+28;42; FATHER;Oh, don't worry about that.
+28;43; HERBERT;Oooh!
+29;1; FATHER;Well, this is the main hall. We're going to have all this knocked through, and made into one big, uh, living room.
+29;2; RANDOM;There he is!
+29;3; FATHER;Oh, bloody hell.
+29;4; LAUNCELOT;Ha-ha! etc.
+29;5; FATHER;Hold it, hold it! Please!
+29;6; LAUNCELOT;Sorry, sorry. See what I mean, I just get carried away. I really must -- sorry, sorry! Sorry, everyone.
+29;7; RANDOM;He's killed the best man!
+29;8; FATHER;Hold it, please! Hold it! This is Sir Launcelot from the court of Camelot -- a very brave and influential knight, and my special guest here today.
+29;9; LAUNCELOT;Hello.
+29;10; RANDOM;He killed my auntie!
+29;11; FATHER;Please, please! This is supposed to be a happy occasion! Let's not bicker and argue about who killed who. We are here today to witness the union of two young people in the joyful bond of the holy wedlock. Unfortunately, one of them, my son Herbert, has just fallen to his death. But I think I've not lost a son, so much as... gained a daughter! For, since the tragic death of her father--
+29;12; RANDOM;He's not quite dead!
+29;13; FATHER;Since the near fatal wounding of her father--
+29;14; RANDOM;He's getting better!
+29;15; FATHER;For, since her own father... who, when he seemed about to recover, suddenly felt the icy hand of death upon him,...
+29;16; RANDOM;Oh, he's died!
+29;17; FATHER;And I want his only daughter to look upon me... as her own dad -- in a very real, and legally binding sense. And I feel sure that the merger -- uh, the union -- between the Princess and the brave, but dangerous, Sir Launcelot of Camelot...
+29;18; LAUNCELOT;What?
+29;19; RANDOM;Look! The dead Prince!
+29;20; CONCORDE;He's not quite dead!
+29;21; HERBERT;Oh, I feel much better.
+29;22; FATHER;You fell out of the tower, you creep!
+29;23; HERBERT;No, I was saved at the last minute.
+29;24; FATHER;How?!
+29;25; HERBERT;Well, I'll tell you...
+29;26; FATHER;Not like that! Not like that! No, stop it!
+29;27; SINGING;He's going to tell! He's going to tell!
+29;28; FATHER;Shut up!
+29;29; SINGING;He's going to tell! He's going to tell! He's going to tell! He's going to tell! He's going to tell! He's going to tell! He's going to tell! He's going to tell!
+29;30; CONCORDE;Quickly, sir! This way!
+29;31; LAUNCELOT;No, it's not in my idiom! I must escape more....(sigh)
+29;32; CONCORDE;Dramatically, sir?
+29;33; LAUNCELOT;Dramatically! Hee! Ha! Excuse me, could, uh, could somebody give me a push, please...?
+30;1; ARTHUR;Old crone! Is there anywhere in this town where we could buy a shrubbery!
+30;2; CRONE;Who sent you?
+30;3; ARTHUR;The Knights Who Say Nee.
+30;4; CRONE;Agh! No! Never! We have no shrubberies here.
+30;5; ARTHUR;If you do not tell us where we can buy a shrubbery, my friend and I will say... we will say... `nee'.
+30;6; CRONE;Agh! Do your worst!
+30;7; ARTHUR;Very well! If you will not assist us voluntarily,... nee!
+30;8; CRONE;No! Never! No shrubberies!
+30;9; ARTHUR;Nee!
+30;10; BEDEMIR;Noo! Noo!
+30;11; ARTHUR;No, no, no, no -- it's not that, it's 'nee'.
+30;12; BEDEMIR;Noo!
+30;13; ARTHUR;No, no -- 'nee'. You're not doing it properly.
+30;14; BEDEMIR;Noo! Nee!
+30;15; ARTHUR;That's it, that's it, you've got it.
+30;16; ARTHUR and BEDEMIR;Nee! Nee!
+30;17; ROGER;Are you saying 'nee' to that old woman?
+30;18; ARTHUR;Um, yes.
+30;19; ROGER;Oh, what sad times are these when passing ruffians can say `nee' at will to old ladies. There is a pestilence upon this land, nothing is sacred. Even those who arrange and design shrubberies are under considerable economic stress at this period in history.
+30;20; ARTHUR;Did you say `shrubberies'?
+30;21; ROGER;Yes, shrubberies are my trade -- I am a shrubber. My name is Roger the Shrubber. I arrange, design, and sell shrubberies.
+30;22; BEDEMIR;Nee!
+31;1; ARTHUR;No! No, no, no! No!O, Knights of Nee, we have brought you your shrubbery. May we go now?
+31;2; HEAD KNIGHT;It is a good shrubbery. I like the laurels particularly. But there is one small problem.
+31;3; ARTHUR;What is that?
+31;4; HEAD KNIGHT;We are now... no longer the Knights Who Say Nee.
+31;5; RANDOM;Nee!
+31;6; HEAD KNIGHT;Shh shh. We are now the Knights Who Say Ecky-ecky-ecky- ecky-pikang-zoom-boing-mumble-mumble.
+31;7; RANDOM;Nee!
+31;8; HEAD KNIGHT;Therefore, we must give you a test.
+31;9; ARTHUR;What is this test, O Knights of-- Knights Who 'Til Recently Said Nee?
+31;10; HEAD KNIGHT;Firstly, you must find... another shrubbery!
+31;11; ARTHUR;Not another shrubbery!
+31;12; HEAD KNIGHT;Then, when you have found the shrubbery, you must place it here beside this shrubbery, only slightly higher so you get a two-level effect with a little path running down the middle.
+31;13; RANDOM;A path! A path! Nee!
+31;14; HEAD KNIGHT;Then, when you have found the shrubbery, you must cut down the mightiest tree in the forest... with... a herring!
+31;15; ARTHUR;We shall do no such thing!
+31;16; HEAD KNIGHT;Oh, please!
+31;17; ARTHUR;Cut down a tree with a herring? It can't be done.
+31;18; KNIGHTS;Aaaaugh! Aaaugh!
+31;19; HEAD KNIGHT;Don't say that word.
+31;20; ARTHUR;What word?
+31;21; HEAD KNIGHT;I cannot tell, suffice to say is one of the words the Knights of Nee cannot hear.
+31;22; ARTHUR;How can we not say the word if you don't tell us what it is?
+31;23; KNIGHTS;Aaaaugh! Aaaugh!
+31;24; ARTHUR;What, `is'?
+31;25; HEAD KNIGHT;No, not `is' -- we couldn't get vary far in life not saying `is'.
+31;26; BEDEMIR;My liege, it's Sir Robin!
+31;27; MINSTREL (singing);Packing it in and packing it up And sneaking away and buggering up And chickening out and pissing about Yes, bravely he is throwing in the sponge
+31;28; ARTHUR;Oh, Robin!
+31;29; ROBIN;My liege! It's good to see you!
+31;30; KNIGHTS;Aaaaugh!
+31;31; HEAD KNIGHT;He said the word!
+31;32; ARTHUR;Surely you've not given up your quest for the Holy Grail?
+31;33; MINSTREL (singing);He is sneaking away and buggering up--
+31;34; ROBIN;Shut up! No, no no-- far from it.
+31;35; HEAD KNIGHT;He said the word again!
+31;36; ROBIN;I was looking for it.
+31;37; KNIGHTS;Aaaaugh!
+31;38; ROBIN;Uh, here, here in this forest.
+31;39; ARTHUR;No, it is far from--
+31;40; KNIGHTS;Aaaaugh!
+31;41; HEAD KNIGHT;Aaaaugh! Stop saying the word!
+31;42; ARTHUR;Oh, stop it!
+31;43; KNIGHTS;Aaaaugh!
+31;44; HEAD KNIGHT;Oh! He said it again!
+31;45; ARTHUR;Patsy!
+31;46; HEAD KNIGHT;Aaugh! I said it! I said it! Ooh! I said it again!
+31;47; KNIGHTS;Aaaaugh!
+31;48; NARRATOR;And so Arthur and Bedemir and Sir Robin set out on their search to find the enchanter of whom the old man had spoken in Scene 24. Beyond the forest they met Launcelot and Galahad, and there was much rejoicing.
+31;49; ALL;Yay! Yay!
+31;50; NARRATOR;In the frozen land of Nador they were forced to eat Robin's minstrels. And there was much rejoicing.
+31;51; ALL;Yay!
+31;52; NARRATOR;A year passed. Winter changed into Spring. Spring changed into Summer. Summer changed back into Winter. And Winter gave Spring and Summer a miss and went straight on into Autumn. Until one day...
+32;1; ARTHUR;Knights! Forward! What manner of man are you that can summon up fire without flint or tinder?
+32;2; TIM;I... am an enchanter.
+32;3; ARTHUR;By what name are you known?
+32;4; TIM;There are some who call me... Tim?
+32;5; ARTHUR;Greetings, Tim the Enchanter.
+32;6; TIM;Greetings, King Arthur!
+32;7; ARTHUR;You know my name?
+32;8; TIM;I do. You seek the Holy Grail!
+32;9; ARTHUR;That is our quest. You know much that is hidden, O Tim.
+32;10; TIM;Quite.
+32;11; ARTHUR;Yes, we're, we're looking for the Grail. Our quest is to find the Holy Grail.
+32;12; KNIGHTS;It is, yes, yup, yes, yeah.
+32;13; ARTHUR;And so we're, we're, we're, we're looking for it.
+32;14; KNIGHTS;Yes we are we are.
+32;15; BEDEMIR;We have been for some time.
+32;16; ROBIN;Ages.
+32;17; ARTHUR;Uh, so, uh, anything you can do to, uh, to help, would be... very... helpful...
+32;18; GALAHAD;Look, can you tell us wh-
+32;19; ARTHUR;Fine, um, I don't want to waste anymore of your time, but, uh I don't suppose you could, uh, tell us where we might find a, um, find a, uh, a, um, a uh--
+32;20; TIM;A what...?
+32;21; ARTHUR;A g--, a g--
+32;22; TIM;A Grail?!
+32;23; ARTHUR;Yes, I think so.
+32;24; KNIGHTS;Yes, that's it. Yes.
+32;25; TIM;Yes!
+32;26; KNIGHTS;Oh, thank you, splendid, fine.
+32;27; ARTHUR;Look, you're a busy man, uh--
+32;28; TIM;Yes, I can help you find the Holy Grail.
+32;29; KNIGHTS;Oh, thank you.
+32;30; TIM;To the north there lies a cave -- the cave of Kyre Banorg -- wherein, carved in mystic runes upon the very living rock, the last words of Ulfin Bedweer of Regett [boom] proclaim the last resting place of the most Holy Grail.
+32;31; ARTHUR;Where could we find this cave, O Tim?
+32;32; TIM;Follow! But! follow only if ye be men of valor, for the entrance to this cave is guarded by a creature so foul, so cruel that no man yet has fought with it and lived! Bones of four fifty men lie strewn about its lair. So, brave knights, if you do doubt your courage or your strength, come no further, for death awaits you all with nasty big pointy teeth.
+32;33; ARTHUR;What an eccentric performance.
+33;1; KNIGHT;They're nervous, sire.
+33;2; ARTHUR;Then we'd best leave them here and carry on on foot. Dis-mount!
+33;3; TIM;Behold the cave of Kyre Banorg!
+33;4; ARTHUR;Right! Keep me covered.
+33;5; KNIGHT;What with?
+33;6; ARTHUR;Just keep me covered.
+33;7; TIM;Too late!
+33;8; ARTHUR;What?
+33;9; TIM;There he is!
+33;10; ARTHUR;Where?
+33;11; TIM;There!
+33;12; ARTHUR;What, behind the rabbit?
+33;13; TIM;It is the rabbit!
+33;14; ARTHUR;You silly sod! You got us all worked up!
+33;15; TIM;Well, that's no ordinary rabbit. That's the most foul, cruel, and bad-tempered rodent you ever set eyes on.
+33;16; ROBIN;You tit! I soiled my armor I was so scared!
+33;17; TIM;Look, that rabbit's got a vicious streak a mile wide, it's a killer!
+33;18; KNIGHT;Get stuffed!
+33;19; TIM;It'll do you a trick, mate!
+33;20; KNIGHT;Oh, yeah?
+33;21; ROBIN;You mangy Scot git!
+33;22; TIM;I'm warning you!
+33;23; ROBIN;What's he do, nibble your bum?
+33;24; TIM;He's got huge, sharp-- he can leap about-- look at the bones!
+33;25; ARTHUR;Go on, Boris. Chop his head off!
+33;26; BORIS;Right! Silly little bleeder. One rabbit stew comin' right up!
+33;27; TIM;Look!
+33;28; BORIS;Aaaugh!
+33;29; ARTHUR;Jesus Christ!
+33;30; TIM;I warned you!
+33;31; ROBIN;I peed again!
+33;32; TIM;I warned you! But did you listen to me? Oh, no, you knew it all, didn't you? Oh, it's just a harmless little bunny, isn't it? Well, it's always the same, I always--
+33;33; ARTHUR;Oh, shut up!
+33;34; TIM;--But do they listen to me?--
+33;35; ARTHUR;Right!
+33;36; TIM;-Oh, no--
+33;37; KNIGHTS;Charge!Aaaaugh! Aaaugh! etc.Run away! Run away!
+33;38; TIM;Haw haw haw. Haw haw haw. Haw haw.
+33;39; ARTHUR;Right. How many did we lose?
+33;40; KNIGHT;Gawain.Hector.
+33;41; ARTHUR;And Boris. That's five.
+33;42; GALAHAD;Three, sir.
+33;43; ARTHUR;Three. Three. And we'd better not risk another frontal assault, that rabbit's dynamite.
+33;44; ROBIN;Would it help to confuse it if we run away more?
+33;45; ARTHUR;Oh, shut up and go and change your armor.
+33;46; GALAHAD;Let us taunt it! It may become so cross that it will make a mistake.
+33;47; ARTHUR;Like what?
+33;48; GALAHAD;Well,....
+33;49; ARTHUR;Have we got bows?
+33;50; KNIGHT;No.
+33;51; LAUNCELOT;We have the Holy Hand Grenade.
+33;52; ARTHUR;Yes, of course! The Holy Hand Grenade of Antioch! 'Tis one of the sacred relics Brother Maynard carries with him! Brother Maynard! Bring up the Holy Hand Grenade! How does it, uh... how does it work?
+33;53; KNIGHT;I know not, my liege.
+33;54; ARTHUR;Consult the Book of Armaments!
+33;55; MAYNARD;Armaments, Chapter Two, Verses Nine to Twenty-One.
+33;56; BROTHER;"""And Saint Atila raised the hand grenade up on high, saying, 'Oh, Lord, bless this thy hand grenade that with it thou mayest blow thy enemies to tiny bits, in thy mercy.' And the Lord did grin, and people did feast upon the lambs, and sloths, and carp, and anchovies, and orangutans, and breakfast cereals, and fruit bats, and large --"""
+33;57; MAYNARD;Skip a bit, Brother.
+33;58; BROTHER;"""And the Lord spake, saying, 'First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shalt be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.'"""
+33;59; MAYNARD;Amen.
+33;60; ALL;Amen.
+33;61; ARTHUR;Right! One... two... five!
+33;62; KNIGHT;Three, sir!
+33;63; ARTHUR;Three!
+34;1; KNIGHT;There! Look!
+34;2; LAUNCELOT;What does it say?
+34;3; GALAHAD;What language is that?
+34;4; ARTHUR;Brother Maynard, you're our scholar!
+34;5; MAYNARD;It's Aramaic!
+34;6; GALAHAD;Of course! Joseph of Aramathea!
+34;7; LAUNCELOT;Course!
+34;8; KNIGHT;What does it say?
+34;9; MAYNARD;It reads, 'Here may be found the last words of Joseph of Aramathea. He who is valiant and pure of spirit may find the Holy Grail in the Castle of uuggggggh'.
+34;10; ARTHUR;What?
+34;11; MAYNARD;'... the Castle of uuggggggh'.
+34;12; BEDEMIR;What is that?
+34;13; MAYNARD;He must have died while carving it.
+34;14; LAUNCELOT;Oh, come on!
+34;15; MAYNARD;Well, that's what it says.
+34;16; ARTHUR;Look, if he was dying, he wouldn't bother to carve 'aaggggh'. He'd just say it!
+34;17; MAYNARD;Well, that's what's carved in the rock!
+34;18; GALAHAD;Perhaps he was dictating.
+34;19; ARTHUR;Oh, shut up. Well, does it say anything else?
+34;20; MAYNARD;No. Just, 'uuggggggh'.
+34;21; LAUNCELOT;Aauuggghhh.
+34;22; KNIGHT;Aaauggh.
+34;23; BEDEMIR;You don't suppose he meant the Camauuuugh?
+34;24; KNIGHT;Where's that?
+34;25; BEDEMIR;France, I think.
+34;26; LAUNCELOT;Isn't there a Saint Aauuuves in Cornwall?
+34;27; ARTHUR;No, that's Saint Ives.
+34;28; LAUNCELOT;Oh, yes. Saint Iiiives.
+34;29; SEVERAL;Iiiiives.
+34;30; BEDEMIR;Oooohoohohooo!
+34;31; LAUNCELOT;No, no, aauuuuugh, at the back of the throat. Aauuugh.
+34;32; BEDEMIR;No, no, no, oooooooh, in surprise and alarm.
+34;33; LAUNCELOT;Oh, you mean sort of a aaaagh!
+34;34; BEDEMIR;Yes, but I-- Aaaaagh!
+34;35; KNIGHT;Oooh!Oh, no!
+34;36; MAYNARD;It's the legendary Black Beast of aaauuugh!
+34;37; ARTHUR;Run away!
+34;38; ALL;Run away! Run away!
+34;39; NARRATOR;As the horrendous Black Beast lunged forward, escape for Arthur and his knights seemed hopeless. When, suddenly, the animator suffered a fatal heart attack. [ulk] The cartoon peril was no more. The Quest for the Holy Grail could continue.
+35;1; ARTHUR;There it is! The Bridge of Death!
+35;2; ROBIN;Oh, great.
+35;3; KNIGHT;Look!
+35;4; ARTHUR;There's the old man from Scene 24!
+35;5; BEDEMIR;What is he doing here?
+35;6; ARTHUR;He is the keeper of the Bridge of Death. He asks each traveller five questions--
+35;7; KNIGHT;Three questions.
+35;8; ARTHUR;Three questions. He who answers the five questions--
+35;9; KNIGHT;Three questions.
+35;10; ARTHUR;Three questions may cross in safety.
+35;11; ROBIN;What if you get a question wrong?
+35;12; ARTHUR;Then you are cast into the Gorge of Eternal Peril.
+35;13; ROBIN;Oh, I won't go.
+35;14; KNIGHT;Who's going to answer the questions?
+35;15; ARTHUR;Sir Robin!
+35;16; ROBIN;Yes?
+35;17; ARTHUR;Brave Sir Robin, you go.
+35;18; ROBIN;Hey! I've got a great idea. Why doesn't Launcelot go?
+35;19; LAUNCELOT;Yes, let me go, my liege. I will take him single-handed. I shall make a feint to the north-east--
+35;20; ARTHUR;No, no, hang on, hang on, hang on! Just answer the five questions--
+35;21; KNIGHT;Three questions.
+35;22; ARTHUR;Three questions as best you can. And we shall watch... and pray.
+35;23; LAUNCELOT;I understand, my liege.
+35;24; ARTHUR;Good luck, brave Sir Launcelot. God be with you.
+35;25; KEEPER;Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the other side he see.
+35;26; LAUNCELOT;Ask me the questions, bridge-keeper. I'm not afraid.
+35;27; KEEPER;What is your name?
+35;28; LAUNCELOT;My name is Sir Launcelot of Camelot.
+35;29; KEEPER;What is your quest?
+35;30; LAUNCELOT;To seek the Holy Grail.
+35;31; KEEPER;What is your favorite color?
+35;32; LAUNCELOT;Blue.
+35;33; KEEPER;Right. Off you go.
+35;34; LAUNCELOT;Oh, thank you. Thank you very much.
+35;35; ROBIN;That's easy!
+35;36; KEEPER;Stop! Who approaches the Bridge of Death must answer me these questions three, 'ere the other side he see.
+35;37; ROBIN;Ask me the questions, bridge-keeper. I'm not afraid.
+35;38; KEEPER;What is your name?
+35;39; ROBIN;Sir Robin of Camelot.
+35;40; KEEPER;What is your quest?
+35;41; ROBIN;To seek the Holy Grail.
+35;42; KEEPER;What is the capital of Assyria?
+35;43; ROBIN;I don't know that! Auuuuuuuugh!
+35;44; KEEPER;Stop! What is your name?
+35;45; GALAHAD;Sir Galahad of Camelot.
+35;46; KEEPER;What is your quest?
+35;47; GALAHAD;I seek the Holy Grail.
+35;48; KEEPER;What is your favorite color?
+35;49; GALAHAD;Blue. No yel-- Auuuuuuuugh!
+35;50; KEEPER;Heh heh. Stop! What is your name?
+35;51; ARTHUR;It is Arthur, King of the Britons.
+35;52; KEEPER;What is your quest?
+35;53; ARTHUR;To seek the Holy Grail.
+35;54; KEEPER;What is the air-speed velocity of an unladen swallow?
+35;55; ARTHUR;What do you mean? An African or European swallow?
+35;56; KEEPER;What? I don't know that! Auuuuuuuugh!
+35;57; BEDEMIR;How do know so much about swallows?
+36;1; ARTHUR;Well, you have to know these things when you're a king you know.Launcelot! Launcelot! Launcelot!
+36;2; BEDEMIR;Launcelot! Launcelot!
+36;3; ARTHUR;Launcelot! Launcelot!
+36;4; BEDEMIR;Launcelot! Launcelot!
+36;5; ARTHUR;The Castle Aggh. Our quest is at an end! God be praised! Almighty God, we thank Thee that Thou hast [something] safe Jesus Christ!
+36;6; GUARD;'Allo, daffy English kaniggets and Monsieur Arthur-King, who is afraid of a duck, you know! So, we French fellows out-wit you a second time!
+36;7; ARTHUR;How dare you profane this place with your presence!? I command you, in the name of the Knights of Camelot, to open the doors of this sacred castle, to which God himself has guided us!
+36;8; GUARD;How you English say, I one more time-a unclog my nose in your direction, sons of a window-dresser! So, you think you could out-clever us French folk with your silly knees-bent running about advancing behavior! I wave my private parts at your aunties, you heaving lot of second-hand electric donkey bottom biters.
+36;9; ARTHUR;In the name of the Lord, we demand entrance to this sacred castle!
+36;10; GUARD;No chance, English bedwetting types. I burst my pimples at you and call your daughter an unrequested silly thing. You tiny-brained wipers of other people's bottoms!
+36;11; ARTHUR;If you do not open this door, we shall take this castle by force! In the name of God and the glory of our-- Right! That settles it!
+36;12; GUARD;Yes, this time and try any more or we fire arrows at the tops of your heads and make castanets out of your testicles already! Ha ha!
+36;13; ARTHUR;Walk away. Just ignore them.
+36;14; GUARD;No, remain you illegitimate faced buggerfuls! And, if you think you got nasty taunting this time, you ain't heard nothing yet! Daffy English kaniggets! Thpppt!
+36;15; ARTHUR;We shall attack at once!
+36;16; BEDEMIR;Yes, my liege!
+36;17; ARTHUR;Stand by for attack!
